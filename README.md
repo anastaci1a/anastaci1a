@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey! 💫 Hi! ⭐ Hello! 🌙
+### I don't really do much
+#### ...but in the offchance that I *do* it tends to be pretty cool ~~(at least I think so)~~
 
-<!--
-**anastaci1a/anastaci1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here's some stuff!
+<table align="left">
+  <tr><td>
+    <a href="https://github.com/anastaci1a/Discord-Assistant">Discord Assistant</a>
+    <br>Functional AI discord assistant for autonomous management of authorized applications
+    <br><i><sub>Node.js</sub></i>
+  </td></tr>
+  <tr><td>
+    <a href="https://github.com/anastaci1a/Magic-Eye-Generator">Magic Eye Generator</a>
+    <br>Fully customizable image/video generator for Magic Eyes (Autostereograms)
+    <br><i><sub>Processing/Java</sub></i>
+  </td></tr>
+  <tr><td>
+    <a href="https://github.com/anastaci1a/Undefined">Undefined</a>
+    <br>AI-Generated, AI-Moderated RPG
+    <br><i><sub>GML</sub></i>
+  </td></tr>
+</table>
