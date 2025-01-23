@@ -11,7 +11,7 @@
   </td></tr>
   <tr><td>
     <a href="https://github.com/anastaci1a/Magic-Eye-Generator">Magic Eye Generator</a>
-    <br>Fully customizable image/video generator for Magic Eyes (Autostereograms)
+    <br>Fully customizable generator for Magic Eyes images/videos (Autostereograms)
     <br><i><sub>Processing/Java</sub></i>
   </td></tr>
   <tr><td>
