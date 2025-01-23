@@ -7,16 +7,16 @@
   <tr><td>
     <a href="https://github.com/anastaci1a/Discord-Assistant">Discord Assistant</a>
     <br>Functional AI discord assistant for autonomous management of authorized applications
-    <br><i><sub>Node.js</sub></i>
+    <br><b><i><sub>Node.js</sub></i></b>
   </td></tr>
   <tr><td>
     <a href="https://github.com/anastaci1a/Magic-Eye-Generator">Magic Eye Generator</a>
     <br>Fully customizable generator for Magic Eyes images/videos (Autostereograms)
-    <br><i><sub>Processing/Java</sub></i>
+    <br><b><i><sub>Processing/Java</sub></i></b>
   </td></tr>
   <tr><td>
     <a href="https://github.com/anastaci1a/Undefined">Undefined</a>
     <br>AI-Generated, AI-Moderated RPG
-    <br><i><sub>GML</sub></i>
+    <br><b><i><sub>GML</sub></i></b>
   </td></tr>
 </table>
