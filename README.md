@@ -1,6 +1,6 @@
 # Hey! 💫 Hi! ⭐ Hello! 🌙
-### I don't really do much
-#### ...but in the offchance that I *do*, things are sometimes good :)
+### ~~I don't really do much~~ I've been doing quite a bit lately
+#### ~~...but in the offchance that I *do*,~~ things are sometimes good :)
 
 ## Here's some stuff!
 <table align="left">
