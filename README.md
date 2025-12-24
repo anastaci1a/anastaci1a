@@ -5,7 +5,7 @@
 ## Here's some stuff!
 <table align="left">
   <tr><td>
-    <a href="https://github.com/anastaci1a/Backgammon-App">ana.*</a>
+    <a href="https://github.com/anastaci1a/ana-dot-star">ana.*</a>
     <br>Personal library of Java utilities for gui (<code>javafx</code>), io/cli, and <i>much</i> more
     <br><b><i><sub>Java</sub></i></b>
   </td></tr>
