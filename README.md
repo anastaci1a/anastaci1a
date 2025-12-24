@@ -7,7 +7,7 @@
   <tr><td>
     <a href="https://github.com/anastaci1a/Backgammon-App">ana.*</a>
     <br>Personal library of Java utilities for gui (<code>javafx</code>), io/cli, and <i>much</i> more
-    <br><b><i><sub>Processing/Java</sub></i></b>
+    <br><b><i><sub>Java</sub></i></b>
   </td></tr>
   <tr><td>
     <a href="https://github.com/anastaci1a/Backgammon-App">Backgammon-App</a>
