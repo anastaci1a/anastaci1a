@@ -1,4 +1,4 @@
-# Hey! 💫 Hi! ⭐ Hello! 🌙
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=40&duration=1500&pause=1000&color=FFFFFF&background=0D11177E&vCenter=true&width=225&height=65&lines=Hey!+%F0%9F%92%AB;Hi!+%E2%AD%90;Hello!+%F0%9F%8C%99)](https://github.com/DenverCoder1/readme-typing-svg)
 ### ~~I don't really do much~~ I've been doing quite a bit lately
 #### ~~...but in the offchance that I *do*,~~ things are sometimes good :)
 
