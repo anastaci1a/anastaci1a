@@ -10,7 +10,7 @@
     <br><b><i><sub>Java</sub></i></b>
   </td></tr>
   <tr><td>
-    <a href="https://github.com/anastaci1a/Backgammon-App">Backgammon-App</a>
+    <a href="https://github.com/anastaci1a/Backgammon-PApp">Backgammon-PApp</a>
     <br>Mobile "port" of the Backgammon board game, with a smooth and fully-functioned UI
     <br><b><i><sub>Processing/Java</sub></i></b>
   </td></tr>
